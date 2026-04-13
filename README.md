@@ -19,5 +19,5 @@ Welcome to my GitHub! I am an **Algorithm Engineer** focused on **LLM Post-train
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexixu&show_icons=true&theme=transparent&hide_border=true" alt="Alexixu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexixu&show_icons=true&theme=radical" alt="Alexixu's GitHub stats" />
 </p>
