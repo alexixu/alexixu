@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alexixu 👋
 
-<!--
-**alexixu/alexixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am an **Algorithm Engineer** focused on **LLM Post-training**, dedicated to building smarter and more aligned large language models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🔭 Research & Focus
+- **LLM Post-training**: Expertise in SFT, RLHF, DPO, and Alignment.
+- **Model Evaluation**: Developing robust frameworks for reasoning and safety.
+- **Efficiency**: Optimizing large-scale training pipelines and inference.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexixu&show_icons=true&theme=transparent&hide_border=true" alt="Alexixu's GitHub stats" />
+</p>
